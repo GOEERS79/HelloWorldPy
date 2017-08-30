@@ -2,7 +2,7 @@ import random
 import sys
 import os
 
-print('Hello World from Pthon 3')
+print('Hello World from Python 3')
 
 #single line comment
 
